@@ -8,5 +8,11 @@ With a now enhanced scope of the election results, we can comment on some of the
   - Jefferson County: Cast 38,855 votes, or 10.5% of the total votes
   - Denver County: Cast 306,055 votes, or 82.8% of the total votes
   - Arapahoe County: Cast 24,801 votes, or 6.7% of the total votes
-- The county with the largest number of votes cast was Denver county
-- 
+    - The county with the largest number of votes cast was Denver county
+- We have each individual candidate's performance:
+  - Charles Casper Stockham: Received 85,213 votes, or 23.0% of the total votes
+  - Diana DeGette: Received 272,892 votes, or 73.8% of the total votes
+  - Raymon Anthony Doane: Recieved 11,606 votes, or 3.1% of the total votes
+    - Diana DeGette won the election with 272,892 votes, 73.8% of the total votes.
+- We determined this by the text output of my code
+ 
