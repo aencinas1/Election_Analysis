@@ -1,1 +1,2 @@
-# Election_Analysis
+# An Analysis of Election Data and Finding The Results
+In this challenge, we take the dataset that we have been working on with Seth and Tom a step further. With this dataset, we had already determined the total votes, the candidates that were voted for, the candidates' voting outcomes, and determined a winner. We now need to add code to provide county voting outcomes. Upon adding this code, we can make some new observations regarding county voting performance, as well as how that impacted the candidates' results.
