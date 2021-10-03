@@ -14,5 +14,10 @@ With a now enhanced scope of the election results, we can comment on some of the
   - Diana DeGette: Received 272,892 votes, or 73.8% of the total votes
   - Raymon Anthony Doane: Recieved 11,606 votes, or 3.1% of the total votes
     - Diana DeGette won the election with 272,892 votes, 73.8% of the total votes.
-- We determined this by the text output of my code
- 
+- We determined this by the text output of my code:
+---
+![](Resources/election_txt_output.PNG) 
+
+## Election Audit Summary
+This code can be used in a number of ways, across any election, and provide insight to that election. For example, we not only have the results of each county and candidate, but we can also determine that the results may have been impacted by a poor voting performance by Jefferson and Arapahoe county. This insight could be invaluable to the candidates and there parties, as it could help them reassess their future strategy to maximize their performance at the polls.
+On that note, there is no reason to limit this code to this election. It could easily be applied to other elections of any type. It could be used in any level of political elections. So long as the csv column format remains the same, this code will return the exact measured performances, such as total votes, county votes and percentages, candidate votes and percentages, etc. Even if the csv column format changed, we could reallocate our variable to the appropriate indexes to pull from the correct column.
