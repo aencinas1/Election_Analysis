@@ -15,6 +15,7 @@ With a now enhanced scope of the election results, we can comment on some of the
   - Raymon Anthony Doane: Recieved 11,606 votes, or 3.1% of the total votes
     - Diana DeGette won the election with 272,892 votes, 73.8% of the total votes.
 - We determined this by the text output of my code:
+
 ---
 ![](Resources/election_txt_output.PNG) 
 
